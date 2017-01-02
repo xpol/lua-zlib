@@ -1,8 +1,8 @@
 package = "lua-zlib"
-version = "0.5-0"
+version = "1.0-1"
 source = {
-   url = "git://github.com/brimworks/lua-zlib.git",
-   tag = "v0.5",
+   url = "git://github.com/xpol/lua-zlib.git",
+   tag = "v1.0-1",
 }
 description = {
    summary = "Simple streaming interface to zlib for Lua.",
